@@ -4,7 +4,7 @@
 #
 #!/bin/bash
 
-PROTOBUF_VERSION=3.19.4
+PROTOBUF_VERSION=3.20.0
 PROTOBUF_URL=https://github.com/protocolbuffers/protobuf/releases/download/v${PROTOBUF_VERSION}
 PROTOBUF_DIR=protobuf-python-${PROTOBUF_VERSION}
 PROTOC_DIR=protoc-${PROTOBUF_VERSION}-linux-aarch_64
